@@ -32,7 +32,7 @@ This project implements a Support Vector Machine (SVM) model for classifying if 
 
 ```python
     git clone https://github.com/adamsdossantos/diabetes_prediction.git
-    cd diabete_svm
+    
 ```
 2. Create a virtual environment and activate it:
 ```python
@@ -56,9 +56,8 @@ Open the diabetes_prediction.ipynb file and follow the step-by-step instructions
 - Data Loading and Preprocessing: Load data from data/ folder and perform necessary preprocessing.
 - Model Training: Train an SVM model with adjustable hyperparameters.
 - Model Evaluation: Evaluate the model using accuracy, precision, recall, and F1-score.
-- Visualization: Visualize decision boundaries (if applicable) and performance metrics.
 
-## 6. Results
+## 6. Results in Test
 | Metric    |  Value   |
 |-----------|----------|
 | Accuracy  |  77.2%   |
