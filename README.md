@@ -11,7 +11,7 @@ This project implements a Support Vector Machine (SVM) model for classifying if 
 - Visualization: Visualization of decision boundaries and model performance.
 
 ## 3. Project Structure
-    ├── data/                       # Dataset files (if any)
+    ├── diabetes.csv                # Dataset files (if any)
     ├── diabetes_prediction.ipynb   # Jupyter notebook with end-to-end implementation
     ├── README.md                   # Project documentation
     ├── requirements.txt            # Python dependencies
@@ -59,12 +59,12 @@ Open the diabetes_prediction.ipynb file and follow the step-by-step instructions
 - Visualization: Visualize decision boundaries (if applicable) and performance metrics.
 
 ## 6. Results
-| Metric    | Value |
-|-----------|-------|
-| Accuracy  | 95%   |
-| Precision | 94%   |
-| Recall    | 96%   |
-| F1-Score  | 95%   |
+| Metric    |  Value   |
+|-----------|----------|
+| Accuracy  |  77.2%   |
+| Precision |  75.6%   |
+| Recall    |  51.8%   |
+| F1-Score  |  61.5%   |
 
 ## 7. Contributing
 
