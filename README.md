@@ -1,4 +1,4 @@
-### SVM Machine Learning Project - Diabetes Diagnostic
+# SVM Machine Learning Project - Diabetes Diagnostic
 
 ## 1. Project Overview
 
